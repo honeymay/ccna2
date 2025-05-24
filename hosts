@@ -1,8 +1,8 @@
 [ctaas]
 10.31.1.2
 
-  [ctaas:vars]
-  ansible_user=admin
-  ansible_password=pass
-  ansible_connection=network_cli
-  ansible_network_ios=ios
+[ctaas:vars]
+ansible_user=admin
+ansible_password=pass
+ansible_connection=network_cli
+ansible_network_ios=ios
