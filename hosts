@@ -2,7 +2,7 @@
 10.31.1.2
 
   [ctaas:vars]
-  ansible_user=admin
-  ansible_password=pass
+  ansible_user=ccnp
+  ansible_password=C1sc0123
   ansible_connection=network_cli
   ansible_network_ios=ios
