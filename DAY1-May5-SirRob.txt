@@ -621,7 +621,7 @@ conf t
     id mac c890.8a6e.974f
     number 1 dn 1
     dtmf-relay sip-notify
-    username admin password pass
+    username 3199 password 3199
     codec g711ulaw
 !
   voice register pool 2
